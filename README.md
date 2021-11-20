@@ -6,7 +6,7 @@ and currently I Am In Final year Of Engineering.
 - 📫 You Can Reach Me Through Gmail : akashkumar69067@gmail.com
 
 Technologies Known :<br/>
-  Languages : Python, Javascript,C++<br/>
+  Languages : Python, Javascript,Java<br/>
   Frameworks : React, Bootstrap<br/>
   Runtime Enviroments : Node.js<br/>
 -   
